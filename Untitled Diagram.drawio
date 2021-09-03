@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T18:27:52.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="14.9.8" etag="6g4ihtPJW7yTn4RBY65x" type="github"><diagram id="5fvGI3ANTmbwbo_8IJXK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-03T18:39:36.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="yL3bNFnI5Bg6ss1W4eCt" version="14.9.8" type="github">
+  <diagram id="5fvGI3ANTmbwbo_8IJXK" name="Page-1">
+    <mxGraphModel dx="540" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="trRv888PfZih4aT2TeqE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="trRv888PfZih4aT2TeqE-1" target="trRv888PfZih4aT2TeqE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-1" value="ROUTES OF DRUG ADMINISTRATION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="354" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.397;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="trRv888PfZih4aT2TeqE-3" target="trRv888PfZih4aT2TeqE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="trRv888PfZih4aT2TeqE-3" target="trRv888PfZih4aT2TeqE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-3" value="SYSTEMIC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="234" y="180" width="126" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="trRv888PfZih4aT2TeqE-4" target="trRv888PfZih4aT2TeqE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-4" value="LOCAL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="474" y="180" width="116" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="trRv888PfZih4aT2TeqE-6" target="trRv888PfZih4aT2TeqE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="trRv888PfZih4aT2TeqE-6" target="trRv888PfZih4aT2TeqE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-6" value="classification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="394" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-7" value="&lt;font style=&quot;font-size: 12px&quot;&gt;-Skin topical&lt;br&gt;-Intranasal&lt;br&gt;-Ocular Drops&lt;br&gt;-Mucosal-throat, vagina, mouth, ear&lt;br&gt;-Inhalational&lt;br&gt;-Tansdermal&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="474" y="220" width="116" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="trRv888PfZih4aT2TeqE-9" target="trRv888PfZih4aT2TeqE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-9" value="Enteral" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="158" y="230" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="trRv888PfZih4aT2TeqE-10" target="trRv888PfZih4aT2TeqE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-10" value="Parenteral" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="294" y="230" width="116" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-11" value="-Oral&lt;br&gt;-Sublingual&lt;br&gt;-Ractal" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="116" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="trRv888PfZih4aT2TeqE-12" target="trRv888PfZih4aT2TeqE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-12" value="-Inhalational&lt;br&gt;-Injections&lt;br&gt;-Transdermal" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="297.5" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trRv888PfZih4aT2TeqE-13" value="-Intravenous&lt;br&gt;-Intramuscular&lt;br&gt;-Subcutaneous&lt;br&gt;-Intra-arterial&lt;br&gt;-intra-articular&lt;br&gt;-Intradermal" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="116" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
